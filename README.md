@@ -32,7 +32,7 @@ Still Learning Python...
 -    ==>Code needs a lot of cleaning and refactoring. 
     
 Note:
--   [-]Please install Scapy and Pandas Library before Execution.
+-   [-]Please install Scapy and Pandas Library before Execution manually with --pip command.
 
    
 ----------------------------------------------------------------------------ThankYou-----------------------------------------------------------------------------------
